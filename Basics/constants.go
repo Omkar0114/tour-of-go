@@ -10,5 +10,5 @@ func main(){
 
 	fmt.Println("Happy ", Pi , "Day")
 	const name = "hello"
-	fmt.Printf("%v", name, "Omkar")
+	fmt.Printf("%v ", name)
 }
